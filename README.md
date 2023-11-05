@@ -1,6 +1,6 @@
 # Repositória para fins de testes, estudos e aprendizado.
 
-## Faça um fork do repositório e clone em sua máquina.
+## Faça um fork do repositório e clone em sua máquina. E em uma nova branch vocês farão as alterações nescessárias.
 Altere os campos abaixo com as informações nescessárias, e prencha a sua ficha.
 
 
