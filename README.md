@@ -3,8 +3,6 @@
 ## Faça um fork do repositório e clone em sua máquina.
 Altere os campos abaixo com as informações nescessárias, e prencha a sua ficha.
 
-* Total de participantes: 1
-
 
 * Nome: Samuel Fishcer
 * Idade: 22
@@ -12,3 +10,11 @@ Altere os campos abaixo com as informações nescessárias, e prencha a sua fich
 * Curso: ADS
 * Semestre: 4
 * Nome de usuário no GitHub: samuel-Fischer
+
+
+* Nome: 
+* Idade: 
+* Cidade: 
+* Curso: 
+* Semestre: 
+* Nome de usuário no GitHub: 
