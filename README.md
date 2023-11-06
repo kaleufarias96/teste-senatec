@@ -12,7 +12,15 @@ Altere os campos abaixo com as informações nescessárias, e prencha a sua fich
 * Nome de usuário no GitHub: samuel-Fischer
 
 
-* Nome: 
+* Nome: Kaleu Farias 
+* Idade: 26 anos
+* Cidade: Pelotas
+* Curso: ADS
+* Semestre: 4/5
+* Nome de usuário no GitHub: kaleufarias96 
+
+
+* Nome:  
 * Idade: 
 * Cidade: 
 * Curso: 
